@@ -50,11 +50,6 @@ The Play Store Apps provides some useful insights regarding the trending of the 
 *   Average ratings are 4.12.
 *   Small size of apps getting high ratting.
 
+*   Translated_Review - comment text entered by a user
 
-
-
-
-
-Translated_Review - comment text entered by a user
-
-Sentiment - Positive, Neutral and Negative
+*   Sentiment - Positive, Neutral and Negative
